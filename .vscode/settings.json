@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "ESTACIO.C": "cpp",
-        "GLORAADEUS.C": "cpp"
+        "NV1_ESC.C": "cpp",
+        "NV2_ESC.C": "cpp",
+        "NV3_ESC.C": "cpp",
+        "NV4_ESC.C": "cpp"
     }
 }
